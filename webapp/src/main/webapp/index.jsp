@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New User Register</h1>
-    <p>Please fill in this form to create an new account.</p>
+    <h1>New User Registration Form</h1>
+    <p>Please fill this form to create an new account.</p>
     <hr>
     
     <label for="name"><b>Name</b></label>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thank You, Happy Learning </h1>
 
   
 </form>
